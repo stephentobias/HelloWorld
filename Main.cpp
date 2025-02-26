@@ -4,7 +4,6 @@ void Log(const char* message);
 
 int main()
 {
-	Log("Stephen!");
-	Log("This is a new message.");
+	std::cout << "Size of double is " << sizeof(double) << " bytes and type of double is " << typeid(double).name() << std::endl;
 	return 0;
 }
