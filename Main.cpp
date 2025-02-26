@@ -4,6 +4,6 @@ void Log(const char* message);
 
 int main()
 {
-	Log("Hello, world!");
+	Log("Stephen!");
 	return 0;
 }
