@@ -4,6 +4,7 @@ void Log(const char* message);
 
 /*
 * The function prompts the user to enter 3 numbers separated by spaces
+* Adding comment to test git connection
 */
 int main()
 {
